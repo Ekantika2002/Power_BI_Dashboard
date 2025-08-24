@@ -20,3 +20,6 @@ The dashboard includes the following insights:
 * Uncovered seasonal trends in revenue growth.
 * Highlighted top product categories driving profitability.
 * Provided actionable KPIs to support decision-making.
+## Conclusion
+
+This Power BI dashboard provided a clear view of sales performance, customer behavior, and product profitability. It helped identify key revenue drivers, seasonal trends, and top-performing regions, enabling better decision-making through data-driven insights.
